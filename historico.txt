@@ -1,0 +1,6 @@
+mkdir - criei um diretorio
+touch - criei um arquivo.txt
+mv - usei para renomear o arquivo file2.txt
+head -n 3 - usei para conseguir pegar o inicio do arquivo file1.txt delimitando nas 3 primeiras linhas 
+tail -n 2 - usei para conseguir pegar o final do arquivo file1.txt delimitando nas 2 ultimas linhas
+grep - usei para conseguir pegar as linhas que não possuiam numero 1
